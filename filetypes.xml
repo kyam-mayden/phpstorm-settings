@@ -11,6 +11,7 @@
       <mapping pattern="20180830-add-residency-status-to-fields.sql" type="PLAIN_TEXT" />
       <mapping pattern="application_aliases" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
+      <mapping pattern="commands" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
       <mapping pattern="POSTROOM_LOG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="20181109-add-electronic-document-types.sql" type="PLAIN_TEXT" />
