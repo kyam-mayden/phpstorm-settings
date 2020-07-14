@@ -30,8 +30,8 @@
     <mask>!patches_*, !*.sql, !*test.php</mask>
     <mask>routes.php</mask>
     <mask>!*test.php</mask>
-    <mask>*.php</mask>
     <mask>*.php, *.inc</mask>
     <mask>*.sql</mask>
+    <mask>*.php</mask>
   </component>
 </application>
