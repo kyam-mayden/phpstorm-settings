@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
+    <option name="FILE_MASK" value="!*test.php," />
     <mask>*.mxml</mask>
     <mask>.s``</mask>
     <mask>*.php, *.js</mask>
@@ -33,5 +35,6 @@
     <mask>*.php</mask>
     <mask>*.php, !*test.php</mask>
     <mask>*.php,</mask>
+    <mask>!*test.php,</mask>
   </component>
 </application>
