@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <mapping pattern="20200325-IAPT-add-missing-default-sms-templates.sql" type="PLAIN_TEXT" />
       <mapping pattern="20181109-add-electronic-document-types.sql" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
@@ -16,7 +17,6 @@
       <mapping pattern="20200131-add-internet-enabled-therapy-programme-clinical-contact.sql" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
