@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <mapping pattern="20200325-IAPT-add-missing-default-sms-templates.sql" type="PLAIN_TEXT" />
       <mapping pattern="20181109-add-electronic-document-types.sql" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
