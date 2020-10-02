@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>.s``</mask>
     <mask>*.php, *.js</mask>
     <mask>*.php, *.inc, *.js, *.tpl</mask>
     <mask>test.php</mask>
@@ -33,5 +32,6 @@
     <mask>*.php,</mask>
     <mask>!*test.php,</mask>
     <mask>!*test.php, !tests/_data/fixtures/*</mask>
+    <mask>*factory.php</mask>
   </component>
 </application>
