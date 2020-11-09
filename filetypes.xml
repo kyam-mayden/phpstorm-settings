@@ -7,6 +7,7 @@
       <mapping pattern="POSTROOM_LOG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="20180830-add-residency-status-to-fields.sql" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
+      <mapping pattern="OnwardReferralTransformerFactory.php" type="PLAIN_TEXT" />
       <mapping pattern="cheese" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern="cheese2" type="PLAIN_TEXT" />
