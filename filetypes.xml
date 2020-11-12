@@ -12,7 +12,6 @@
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern="cheese2" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="application_aliases" type="PLAIN_TEXT" />
       <mapping pattern="20200131-add-internet-enabled-therapy-programme-clinical-contact.sql" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
