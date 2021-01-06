@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Swap call arguments" />
+    <ignoreAction name="PHP/Split comma-separated values into multiple lines" />
   </component>
 </application>
