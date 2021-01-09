@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="return" type="PLAIN_TEXT" />
       <mapping pattern="20200325-IAPT-add-missing-default-sms-templates.sql" type="PLAIN_TEXT" />
+      <mapping pattern="return" type="PLAIN_TEXT" />
       <mapping pattern="20181109-add-electronic-document-types.sql" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
       <mapping pattern="POSTROOM_LOG_FILE" type="PLAIN_TEXT" />
