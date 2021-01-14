@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="i18n.js" type="JavaScript" />
       <mapping pattern="return" type="PLAIN_TEXT" />
       <mapping pattern="20200325-IAPT-add-missing-default-sms-templates.sql" type="PLAIN_TEXT" />
       <mapping pattern="20181109-add-electronic-document-types.sql" type="PLAIN_TEXT" />
