@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="VersionControlServiceException" type="AUTO_DETECTED" />
+      <mapping pattern="AccessTokenFactory.php" type="AUTO_DETECTED" />
       <mapping pattern="i18n.js" type="JavaScript" />
       <mapping pattern="VersionControlServiceException.php" type="PHP" />
       <mapping pattern="20200325-IAPT-add-missing-default-sms-templates.sql" type="PLAIN_TEXT" />
