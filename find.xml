@@ -23,7 +23,6 @@
     <mask>!*test.php,</mask>
     <mask>!*test.php, !tests/_data/fixtures/*</mask>
     <mask>routes.php</mask>
-    <mask>*test.php</mask>
     <mask>*factory.php</mask>
     <mask>*test.js</mask>
     <mask>!*.log</mask>
@@ -33,5 +32,6 @@
     <mask>*.js, !*bundle.js</mask>
     <mask>*.php</mask>
     <mask>*.js, !*bundle.js, *.json, !*.test.js</mask>
+    <mask>*test.php</mask>
   </component>
 </application>
