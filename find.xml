@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>php</mask>
     <mask>!.log. !patches_*</mask>
     <mask>.php</mask>
@@ -17,7 +18,6 @@
     <mask>!*.txt</mask>
     <mask>.sql</mask>
     <mask>*.css</mask>
-    <mask>*.sql</mask>
     <mask>*.php, !*test.php</mask>
     <mask>*.php,</mask>
     <mask>!*test.php,</mask>
@@ -33,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*.js, !*bundle.js, *.json, !*.test.js</mask>
     <mask>*test.php</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
