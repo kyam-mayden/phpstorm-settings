@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>.php</mask>
     <mask>!*test.php, *.php</mask>
     <mask>*.PHP</mask>
     <mask>*.JSON</mask>
@@ -33,5 +32,6 @@
     <mask>*test.php, !vendor/*, !api/vendor/*</mask>
     <mask>*test.php</mask>
     <mask>*test.php, *cest.php</mask>
+    <mask>.php</mask>
   </component>
 </application>
