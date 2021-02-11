@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js, !*bundle.js, *.json, !*.test.js" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>!*test.php, *.php</mask>
     <mask>*.PHP</mask>
     <mask>*.JSON</mask>
@@ -34,7 +32,7 @@
     <mask>*test.php</mask>
     <mask>*test.php, *cest.php</mask>
     <mask>.php</mask>
-    <mask>*.sql</mask>
     <mask>*.js, !*bundle.js, *.json, !*.test.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
