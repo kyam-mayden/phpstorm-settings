@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*test.php, *.php</mask>
+    <option name="FILE_MASK" value="*controller.php" />
     <mask>*.PHP</mask>
     <mask>*.JSON</mask>
     <mask>!patches_*, !*.sql, !*test.php</mask>
@@ -28,12 +26,13 @@
     <mask>!*test.js.snap</mask>
     <mask>*.js</mask>
     <mask>*.js, !*bundle.js</mask>
-    <mask>*.php</mask>
     <mask>*test.php, !vendor/*, !api/vendor/*</mask>
     <mask>*test.php</mask>
     <mask>*test.php, *cest.php</mask>
     <mask>.php</mask>
     <mask>*.sql</mask>
     <mask>*.js, !*bundle.js, *.json, !*.test.js</mask>
+    <mask>*.php</mask>
+    <mask>*controller.php</mask>
   </component>
 </application>
