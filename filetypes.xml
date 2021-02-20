@@ -21,6 +21,7 @@
       <mapping pattern="application_aliases" type="PLAIN_TEXT" />
       <mapping pattern="20200131-add-internet-enabled-therapy-programme-clinical-contact.sql" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
