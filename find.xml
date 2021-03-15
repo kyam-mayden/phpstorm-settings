@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!patches_*, !*.sql, !*test.php</mask>
     <mask>!*test.php</mask>
     <mask>*.php, *.inc</mask>
     <mask>!*.bundle.js, !*.js.htm</mask>
@@ -33,5 +32,6 @@
     <mask>*.inc</mask>
     <mask>*.sql</mask>
     <mask>*.php</mask>
+    <mask>!api/vendor/*</mask>
   </component>
 </application>
