@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php, !*Test.php" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.php, *.inc</mask>
     <mask>!*.bundle.js, !*.js.htm</mask>
     <mask>!*.bundle.js, !*.js.html, !patches_*, !*.sql</mask>
@@ -27,12 +27,12 @@
     <mask>!*.log</mask>
     <mask>*test.js</mask>
     <mask>*routes.php</mask>
-    <mask>*.js</mask>
     <mask>*test.php</mask>
     <mask>*.inc</mask>
     <mask>*.sql</mask>
     <mask>*.php</mask>
     <mask>!api/vendor/*</mask>
     <mask>*.php, !*Test.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
