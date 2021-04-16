@@ -5,8 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
-    <mask>!*.bundle.js, !*.js.html, !patches_*, !*.sql</mask>
+    <option name="FILE_MASK" value="*.json" />
     <mask>!*.txt</mask>
     <mask>.sql</mask>
     <mask>*.css</mask>
@@ -36,5 +35,6 @@
     <mask>!*.js.test</mask>
     <mask>*.sql</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
