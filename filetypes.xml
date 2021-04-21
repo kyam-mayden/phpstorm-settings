@@ -4,9 +4,9 @@
       <mapping pattern="main" type="AUTO_DETECTED" />
       <mapping pattern="VersionControlServiceException" type="AUTO_DETECTED" />
       <mapping pattern="AccessTokenFactory.php" type="AUTO_DETECTED" />
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tsv" type="CSV/TSV" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="i18n.js" type="JavaScript" />
       <mapping pattern="FeatureDisabledException" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
@@ -37,7 +37,7 @@
       <mapping pattern="20181221-Update-residency-field-name" type="SQL" />
       <mapping pattern="20181221-Update-residency-field-name.sql" type="SQL" />
       <mapping pattern="20190401-AVON-DNRAO-CP-history-fix.sql" type="SQL" />
-      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="tsv" type="TSV" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
