@@ -4,7 +4,6 @@
       <mapping pattern="main" type="AUTO_DETECTED" />
       <mapping pattern="VersionControlServiceException" type="AUTO_DETECTED" />
       <mapping pattern="AccessTokenFactory.php" type="AUTO_DETECTED" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="i18n.js" type="JavaScript" />
       <mapping pattern="FeatureDisabledException" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
