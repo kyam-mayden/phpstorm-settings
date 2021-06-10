@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>.sql</mask>
     <mask>*.css</mask>
     <mask>*.php, !*test.php</mask>
     <mask>*.php,</mask>
@@ -33,5 +32,6 @@
     <mask>*.php</mask>
     <mask>!*.json</mask>
     <mask>*.sql</mask>
+    <mask>2021*.sql</mask>
   </component>
 </application>
