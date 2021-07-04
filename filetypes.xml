@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="main" type="AUTO_DETECTED" />
+      <mapping pattern="e19d726046fc49fccc17a7b8072ae08f824310d0" type="AUTO_DETECTED" />
       <mapping pattern="VersionControlServiceException" type="AUTO_DETECTED" />
       <mapping pattern="AccessTokenFactory.php" type="AUTO_DETECTED" />
       <mapping pattern="i18n.js" type="JavaScript" />
@@ -15,6 +16,7 @@
       <mapping pattern="POSTROOM_LOG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="20180830-add-residency-status-to-fields.sql" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
+      <mapping pattern="db176e58d433b919eaf857be127c329aad53b272" type="PLAIN_TEXT" />
       <mapping pattern="OnwardReferralTransformerFactory.php" type="PLAIN_TEXT" />
       <mapping pattern="cheese" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
