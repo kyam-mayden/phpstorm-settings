@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="!*.log" />
     <mask>*.css</mask>
     <mask>*.php, !*test.php</mask>
     <mask>*.php,</mask>
@@ -19,7 +19,6 @@
     <mask>*controller.php</mask>
     <mask>routes.php</mask>
     <mask>*factory.php</mask>
-    <mask>!*.log</mask>
     <mask>*.inc</mask>
     <mask>!api/vendor/*</mask>
     <mask>*.php, !*Test.php</mask>
@@ -34,5 +33,6 @@
     <mask>*.sql</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>!*.log</mask>
   </component>
 </application>
