@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.php,</mask>
     <mask>!*test.php,</mask>
     <mask>!*test.php, !tests/_data/fixtures/*</mask>
@@ -29,11 +30,11 @@
     <mask>!*.json</mask>
     <mask>2021*.sql</mask>
     <mask>*test.php</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>!*.log</mask>
     <mask>!*.log, !*.sql</mask>
     <mask>*.sql</mask>
     <mask>*.js, !*.test.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
