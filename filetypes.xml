@@ -5,6 +5,7 @@
       <mapping pattern="e19d726046fc49fccc17a7b8072ae08f824310d0" type="AUTO_DETECTED" />
       <mapping pattern="VersionControlServiceException" type="AUTO_DETECTED" />
       <mapping pattern="AccessTokenFactory.php" type="AUTO_DETECTED" />
+      <mapping ext="tmpl" type="HTML" />
       <mapping pattern="i18n.js" type="JavaScript" />
       <mapping pattern="FeatureDisabledException" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
