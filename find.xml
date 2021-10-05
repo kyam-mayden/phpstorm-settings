@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.php" />
     <mask>!*test.php, !tests/_data/fixtures/*</mask>
     <mask>!*test.js</mask>
     <mask>!*test.js.snap</mask>
