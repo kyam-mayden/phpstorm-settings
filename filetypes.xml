@@ -5,6 +5,8 @@
       <mapping pattern="main" type="AUTO_DETECTED" />
       <mapping pattern="meeting-manager" type="AUTO_DETECTED" />
       <mapping pattern="iaptus" type="AUTO_DETECTED" />
+      <mapping pattern="letters_microservices" type="AUTO_DETECTED" />
+      <mapping pattern="letter_microservices" type="AUTO_DETECTED" />
       <mapping pattern="e19d726046fc49fccc17a7b8072ae08f824310d0" type="AUTO_DETECTED" />
       <mapping pattern="demo" type="AUTO_DETECTED" />
       <mapping pattern="deploy" type="AUTO_DETECTED" />
@@ -12,6 +14,7 @@
       <mapping pattern="misc" type="AUTO_DETECTED" />
       <mapping pattern="sms" type="AUTO_DETECTED" />
       <mapping pattern="AccessTokenFactory.php" type="AUTO_DETECTED" />
+      <mapping pattern="webforms" type="AUTO_DETECTED" />
       <mapping pattern="auth" type="AUTO_DETECTED" />
       <mapping pattern="bacpac" type="AUTO_DETECTED" />
       <mapping pattern="patient-portal" type="AUTO_DETECTED" />
