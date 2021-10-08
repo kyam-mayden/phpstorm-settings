@@ -17,6 +17,7 @@
       <mapping pattern="patient-portal" type="AUTO_DETECTED" />
       <mapping pattern="australia" type="AUTO_DETECTED" />
       <mapping pattern="iaptus-australia" type="AUTO_DETECTED" />
+      <mapping pattern="kyam" type="AUTO_DETECTED" />
       <mapping pattern="self-referrals" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="HTML" />
       <mapping pattern="i18n.js" type="JavaScript" />
