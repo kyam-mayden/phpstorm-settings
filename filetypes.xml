@@ -9,6 +9,7 @@
       <mapping pattern="letter_microservices" type="AUTO_DETECTED" />
       <mapping pattern="e19d726046fc49fccc17a7b8072ae08f824310d0" type="AUTO_DETECTED" />
       <mapping pattern="demo" type="AUTO_DETECTED" />
+      <mapping pattern="iaptus_test" type="AUTO_DETECTED" />
       <mapping pattern="deploy" type="AUTO_DETECTED" />
       <mapping pattern="VersionControlServiceException" type="AUTO_DETECTED" />
       <mapping pattern="misc" type="AUTO_DETECTED" />
