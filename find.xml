@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*test.php, !tests/_data/fixtures/*</mask>
+    <option name="FILE_MASK" value="!*Test.php" />
     <mask>!*test.js</mask>
     <mask>!*test.js.snap</mask>
     <mask>*.js, !*bundle.js</mask>
@@ -35,5 +35,6 @@
     <mask>*.js, !*.test.js</mask>
     <mask>*Test.php</mask>
     <mask>*.sql</mask>
+    <mask>!*Test.php</mask>
   </component>
 </application>
