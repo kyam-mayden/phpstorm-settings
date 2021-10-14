@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="config2" type="AUTO_DETECTED" />
       <mapping pattern="iaptus" type="AUTO_DETECTED" />
       <mapping pattern="auth" type="AUTO_DETECTED" />
       <mapping pattern="letter_microservices" type="AUTO_DETECTED" />
