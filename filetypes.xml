@@ -1,49 +1,49 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="iaptus" type="AUTO_DETECTED" />
+      <mapping pattern="auth" type="AUTO_DETECTED" />
+      <mapping pattern="letter_microservices" type="AUTO_DETECTED" />
       <mapping pattern="external-referrals" type="AUTO_DETECTED" />
       <mapping pattern="main" type="AUTO_DETECTED" />
-      <mapping pattern="meeting-manager" type="AUTO_DETECTED" />
-      <mapping pattern="iaptus" type="AUTO_DETECTED" />
-      <mapping pattern="letters_microservices" type="AUTO_DETECTED" />
-      <mapping pattern="letter_microservices" type="AUTO_DETECTED" />
-      <mapping pattern="e19d726046fc49fccc17a7b8072ae08f824310d0" type="AUTO_DETECTED" />
-      <mapping pattern="demo" type="AUTO_DETECTED" />
-      <mapping pattern="iaptus_test" type="AUTO_DETECTED" />
-      <mapping pattern="deploy" type="AUTO_DETECTED" />
-      <mapping pattern="VersionControlServiceException" type="AUTO_DETECTED" />
-      <mapping pattern="misc" type="AUTO_DETECTED" />
-      <mapping pattern="sms" type="AUTO_DETECTED" />
       <mapping pattern="AccessTokenFactory.php" type="AUTO_DETECTED" />
-      <mapping pattern="webforms" type="AUTO_DETECTED" />
-      <mapping pattern="auth" type="AUTO_DETECTED" />
-      <mapping pattern="bacpac" type="AUTO_DETECTED" />
-      <mapping pattern="patient-portal" type="AUTO_DETECTED" />
-      <mapping pattern="australia" type="AUTO_DETECTED" />
-      <mapping pattern="iaptus-australia" type="AUTO_DETECTED" />
-      <mapping pattern="kyam" type="AUTO_DETECTED" />
+      <mapping pattern="deploy" type="AUTO_DETECTED" />
       <mapping pattern="self-referrals" type="AUTO_DETECTED" />
+      <mapping pattern="VersionControlServiceException" type="AUTO_DETECTED" />
+      <mapping pattern="kyam" type="AUTO_DETECTED" />
+      <mapping pattern="australia" type="AUTO_DETECTED" />
+      <mapping pattern="e19d726046fc49fccc17a7b8072ae08f824310d0" type="AUTO_DETECTED" />
+      <mapping pattern="meeting-manager" type="AUTO_DETECTED" />
+      <mapping pattern="letters_microservices" type="AUTO_DETECTED" />
+      <mapping pattern="demo" type="AUTO_DETECTED" />
+      <mapping pattern="bacpac" type="AUTO_DETECTED" />
+      <mapping pattern="webforms" type="AUTO_DETECTED" />
+      <mapping pattern="sms" type="AUTO_DETECTED" />
+      <mapping pattern="misc" type="AUTO_DETECTED" />
+      <mapping pattern="iaptus-australia" type="AUTO_DETECTED" />
+      <mapping pattern="iaptus_test" type="AUTO_DETECTED" />
       <mapping pattern="test-new" type="AUTO_DETECTED" />
+      <mapping pattern="patient-portal" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="HTML" />
       <mapping pattern="i18n.js" type="JavaScript" />
-      <mapping pattern="FeatureDisabledException" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="FeatureDisabledException" type="PHP" />
       <mapping pattern="VersionControlServiceException.php" type="PHP" />
+      <mapping pattern="cheese2" type="PLAIN_TEXT" />
+      <mapping pattern="20200325-IAPT-add-missing-default-sms-templates.sql" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
       <mapping pattern="20180830-add-residency-status-to-fields.sql" type="PLAIN_TEXT" />
-      <mapping pattern="db176e58d433b919eaf857be127c329aad53b272" type="PLAIN_TEXT" />
-      <mapping pattern="OnwardReferralTransformerFactory.php" type="PLAIN_TEXT" />
       <mapping pattern="cheese" type="PLAIN_TEXT" />
-      <mapping pattern="cheese2" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="application_aliases" type="PLAIN_TEXT" />
-      <mapping pattern="20200131-add-internet-enabled-therapy-programme-clinical-contact.sql" type="PLAIN_TEXT" />
-      <mapping pattern="20200325-IAPT-add-missing-default-sms-templates.sql" type="PLAIN_TEXT" />
-      <mapping pattern="return" type="PLAIN_TEXT" />
-      <mapping pattern="20181109-add-electronic-document-types.sql" type="PLAIN_TEXT" />
-      <mapping pattern="POSTROOM_LOG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
+      <mapping pattern="application_aliases" type="PLAIN_TEXT" />
+      <mapping pattern="POSTROOM_LOG_FILE" type="PLAIN_TEXT" />
+      <mapping pattern="OnwardReferralTransformerFactory.php" type="PLAIN_TEXT" />
+      <mapping pattern="db176e58d433b919eaf857be127c329aad53b272" type="PLAIN_TEXT" />
+      <mapping pattern="20200131-add-internet-enabled-therapy-programme-clinical-contact.sql" type="PLAIN_TEXT" />
+      <mapping pattern="20181109-add-electronic-document-types.sql" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="return" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
@@ -52,10 +52,10 @@
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping pattern="20181221-Update-residency-field-name" type="SQL" />
-      <mapping pattern="20181221-Update-residency-field-name.sql" type="SQL" />
       <mapping pattern="20190401-AVON-DNRAO-CP-history-fix" type="SQL" />
       <mapping pattern="20190401-AVON-DNRAO-CP-history-fix.sql" type="SQL" />
+      <mapping pattern="20181221-Update-residency-field-name.sql" type="SQL" />
+      <mapping pattern="20181221-Update-residency-field-name" type="SQL" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
