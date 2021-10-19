@@ -1,19 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*test.js</mask>
-    <mask>!*test.js.snap</mask>
-    <mask>*.js, !*bundle.js</mask>
-    <mask>*test.php, !vendor/*, !api/vendor/*</mask>
-    <mask>*test.php, *cest.php</mask>
-    <mask>.php</mask>
-    <mask>*.js, !*bundle.js, *.json, !*.test.js</mask>
-    <mask>*controller.php</mask>
-    <mask>routes.php</mask>
     <mask>*factory.php</mask>
-    <mask>*.inc</mask>
     <mask>!api/vendor/*</mask>
     <mask>*.php, !*Test.php</mask>
     <mask>!*.js</mask>
@@ -28,10 +20,20 @@
     <mask>!*.log, !*.sql</mask>
     <mask>*.js, !*.test.js, !test-helpers.js</mask>
     <mask>!*.log</mask>
-    <mask>*.php</mask>
     <mask>*.js, !*.test.js</mask>
     <mask>*Test.php</mask>
     <mask>*.sql</mask>
     <mask>!*Test.php</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.php</mask>
   </component>
 </application>
