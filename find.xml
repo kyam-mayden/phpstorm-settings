@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.php, !*Test.php</mask>
     <mask>!*.js</mask>
     <mask>!*.js.test</mask>
@@ -11,7 +12,6 @@
     <mask>*test.js</mask>
     <mask>!*.json</mask>
     <mask>2021*.sql</mask>
-    <mask>*.js</mask>
     <mask>!*.log, !*.sql</mask>
     <mask>*.js, !*.test.js, !test-helpers.js</mask>
     <mask>!*.log</mask>
@@ -33,5 +33,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*test.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
