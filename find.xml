@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.php" />
     <mask>*.php, !*Test.php</mask>
     <mask>!*.js</mask>
     <mask>!*.js.test</mask>
@@ -15,11 +16,12 @@
     <mask>*.js, !*.test.js, !test-helpers.js</mask>
     <mask>!*.log</mask>
     <mask>*.js, !*.test.js</mask>
-    <mask>*Test.php</mask>
     <mask>*.sql</mask>
     <mask>!*Test.php</mask>
     <mask>*.php, !vendor, !api/</mask>
     <mask>*Factory.php</mask>
+    <mask>*test.php</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -31,7 +33,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*test.php</mask>
-    <mask>*.js</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
