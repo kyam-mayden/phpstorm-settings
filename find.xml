@@ -31,7 +31,7 @@
     <mask>routes.php</mask>
     <mask>*middleware/*</mask>
     <mask>*routes.php</mask>
-    <mask>*test.js</mask>
     <mask>*test.php</mask>
+    <mask>*test.js</mask>
   </component>
 </application>
