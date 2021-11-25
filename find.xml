@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*test.js" />
+    <option name="FILE_MASK" value="*test.php" />
     <mask>!*.js.test</mask>
     <mask>*.json</mask>
     <mask>!*.json</mask>
@@ -32,7 +32,7 @@
     <mask>routes.php</mask>
     <mask>*middleware/*</mask>
     <mask>*routes.php</mask>
-    <mask>*test.php</mask>
     <mask>*test.js</mask>
+    <mask>*test.php</mask>
   </component>
 </application>
