@@ -26,7 +26,6 @@
       <mapping pattern="test-new" type="AUTO_DETECTED" />
       <mapping pattern="patient-portal" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="HTML" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="i18n.js" type="JavaScript" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="FeatureDisabledException" type="PHP" />
