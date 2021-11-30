@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*.js.test</mask>
+    <option name="FILE_MASK" value="exports.php" />
     <mask>*.json</mask>
     <mask>!*.json</mask>
     <mask>2021*.sql</mask>
@@ -16,6 +16,12 @@
     <mask>*.php, !vendor, !api/</mask>
     <mask>*Test.php</mask>
     <mask>*Factory.php</mask>
+    <mask>routes.php</mask>
+    <mask>*middleware/*</mask>
+    <mask>*routes.php</mask>
+    <mask>*test.php</mask>
+    <mask>*test.js</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -26,12 +32,7 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>routes.php</mask>
-    <mask>*middleware/*</mask>
-    <mask>*routes.php</mask>
-    <mask>*test.php</mask>
-    <mask>*test.js</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>exports.php</mask>
   </component>
 </application>
