@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>!*.json</mask>
     <mask>2021*.sql</mask>
@@ -23,6 +21,7 @@
     <mask>*.js</mask>
     <mask>exports.php</mask>
     <mask>*.sql</mask>
+    <mask>!vendor/*, !api/vendor/*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -33,7 +32,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>!vendor/*, !api/vendor/*</mask>
     <mask>*.php</mask>
   </component>
 </application>
