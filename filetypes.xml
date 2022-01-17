@@ -46,6 +46,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="return" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
+      <mapping ext="my-fun-reports-app" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
