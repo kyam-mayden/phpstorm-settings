@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*test.php" />
+    <option name="FILE_MASK" value="*Factory.php" />
     <mask>2021*.sql</mask>
     <mask>!*.log, !*.sql</mask>
     <mask>*.js, !*.test.js, !test-helpers.js</mask>
@@ -11,7 +11,6 @@
     <mask>*.js, !*.test.js</mask>
     <mask>!*Test.php</mask>
     <mask>*.php, !vendor, !api/</mask>
-    <mask>*Factory.php</mask>
     <mask>routes.php</mask>
     <mask>*middleware/*</mask>
     <mask>*routes.php</mask>
@@ -22,6 +21,7 @@
     <mask>*.js</mask>
     <mask>*client.php</mask>
     <mask>*Test.php</mask>
+    <mask>*test.php</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -33,6 +33,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*test.php</mask>
+    <mask>*Factory.php</mask>
   </component>
 </application>
