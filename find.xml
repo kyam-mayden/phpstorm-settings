@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>2021*.sql</mask>
+    <option name="FILE_MASK" value="*schema.json" />
     <mask>!*.log, !*.sql</mask>
     <mask>*.js, !*.test.js, !test-helpers.js</mask>
     <mask>!*.log</mask>
@@ -20,6 +20,8 @@
     <mask>*client.php</mask>
     <mask>*test.php</mask>
     <mask>*Factory.php</mask>
+    <mask>*Test.php</mask>
+    <mask>routes.php</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -31,7 +33,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*Test.php</mask>
-    <mask>routes.php</mask>
+    <mask>*schema.json</mask>
   </component>
 </application>
