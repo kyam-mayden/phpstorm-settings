@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>!*.log, !*.sql</mask>
     <mask>*.js, !*.test.js, !test-helpers.js</mask>
     <mask>!*.log</mask>
@@ -24,7 +21,6 @@
     <mask>*client.php</mask>
     <mask>*test.php</mask>
     <mask>*Factory.php</mask>
-    <mask>*Test.php</mask>
     <mask>routes.php</mask>
     <mask>*schema.json</mask>
     <mask>*.css</mask>
@@ -38,5 +34,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
