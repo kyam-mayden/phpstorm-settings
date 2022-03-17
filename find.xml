@@ -21,7 +21,6 @@
     <mask>*test.php</mask>
     <mask>*Factory.php</mask>
     <mask>routes.php</mask>
-    <mask>*Test.php</mask>
     <mask>*factory.php</mask>
     <mask>*schema.json</mask>
     <mask>*.css</mask>
@@ -35,5 +34,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
