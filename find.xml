@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php, !*Test.php" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>!*.log</mask>
     <mask>*.js, !*.test.js</mask>
     <mask>!*Test.php</mask>
@@ -15,7 +15,6 @@
     <mask>*test.js</mask>
     <mask>exports.php</mask>
     <mask>!vendor/*, !api/vendor/*</mask>
-    <mask>*.js</mask>
     <mask>*client.php</mask>
     <mask>*test.php</mask>
     <mask>*Factory.php</mask>
@@ -36,5 +35,6 @@
     <mask>*Test.php</mask>
     <mask>*.sql</mask>
     <mask>*.php, !*Test.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
