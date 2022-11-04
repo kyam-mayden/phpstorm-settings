@@ -56,6 +56,7 @@
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping pattern="20190401-AVON-DNRAO-CP-history-fix" type="SQL" />
       <mapping pattern="20190401-AVON-DNRAO-CP-history-fix.sql" type="SQL" />
