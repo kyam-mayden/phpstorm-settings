@@ -53,6 +53,7 @@
       <mapping ext="nsv" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
@@ -69,7 +70,6 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="graphql" approved="true" type="JSON" />
       <removed_mapping ext="graphqls" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
